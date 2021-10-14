@@ -52,7 +52,6 @@ class libCooldown
 
 
     /**
-     *
      * @param Player $player
      * @param Closure $during_cooldown
      * @param Closure $no_longer
