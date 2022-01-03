@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Mcbeany\libCooldown;
 
 use Closure;
-use pocketmine\Player;
+use pocketmine\player\Player;
 
 class libCooldown
 {
